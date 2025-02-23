@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+
+h1 {
+    background-color: #4caf50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 0;
+}
+
+p {
+    padding: 10px 20px;
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+#output1 {
+    background-color: #e7f7d9;
+    border-left: 5px solid #4caf50;
+    margin: 10px;
+}
+
+#output2 {
+    background-color: #d9e7f7;
+    border-left: 5px solid #4caf50;
+    margin: 10px;
+}
+
+#output3 {
+    background-color: #f7d9ed;
+    border-left: 5px solid #4caf50;
+    margin: 10px;
+}
